@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1719287560 source:d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\main.cpp
+	<iostream>
+	<string>
+	"BB-InsertionSort.h"
+	"ListaEstatica.h"
+	"Interface.h"
+	"Sequencial-InsertionSort.h"
+
+1719280258 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\bb-insertionsort.h
+	<iostream>
+	<string>
+	"ListaEstatica.h"
+
+1719189094 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\filaestatica.h
+	<iostream>
+	<string>
+	<cstring>
+
+1719187579 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\interface.h
+	<iostream>
+	<string>
+
+1719280258 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\sequencial-insertionsort.h
+	<iostream>
+	<string>
+	"ListaEstatica.h"
+
+1719280606 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q3-biancavictor\listaestatica.h
+	<iostream>
+

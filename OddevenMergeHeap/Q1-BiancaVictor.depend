@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1719273452 source:d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\main.cpp
+	"ListaEstatica.h"
+	"OddEven.h"
+	"MergeSort.h"
+	"HeapSort.h"
+	"Interface.h"
+	<iostream>
+
+1719273452 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\listaestatica.h
+	<iostream>
+
+1719273452 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\oddeven.h
+	"ListaEstatica.h"
+	<iostream>
+
+1719273511 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\mergesort.h
+	"ListaEstatica.h"
+	"Interface.h"
+	<iostream>
+
+1719273481 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\heapsort.h
+	"ListaEstatica.h"
+	<iostream>
+
+1718823799 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q1-biancavictor\interface.h
+	<iostream>
+

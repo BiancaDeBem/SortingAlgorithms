@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1719336940 source:d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q2-biancavictor\main.cpp
+	<iostream>
+	"ListaEstática.h"
+	"FindSort.h"
+	"Interface.h"
+
+1719336585 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q2-biancavictor\listaestática.h
+	<iostream>
+
+1719336918 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q2-biancavictor\findsort.h
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	<stdexcept>
+	"ListaEstática.h"
+
+1719335936 d:\exercicios\semestre2024-1\estrutura de dados\m3-biancavictor\q2-biancavictor\interface.h
+	<iostream>
+
